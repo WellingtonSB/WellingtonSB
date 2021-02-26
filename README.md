@@ -1,7 +1,5 @@
 ### Hello Word👋
 
-
-README.md
 - <h5>Languages:</h5>
 <div style="display: flex;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
