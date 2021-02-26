@@ -3,7 +3,7 @@
 
 <hr>
 
-![.](https://github.com/WellingtonSB/WellingtonSB/blob/main/Image/1111.jpg)
+![.](https://github.com/WellingtonSB/WellingtonSB/blob/main/Image/Orange%20and%20Blue%20Freeform%20Health%20Facebook%20Cover%20(1).png)
 
 <hr>
 
