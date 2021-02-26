@@ -1,3 +1,10 @@
+### Hello Word👋
+
+<hr>
+
+-*My name is Wellington Bezerra, course analysis and development of systems. I am currently at Bootcamp [Generation Brasil](https://brazil.generation.org/)*
+
+
 - <h5>Languages:</h5>
 <div style="display: flex;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
