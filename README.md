@@ -12,10 +12,6 @@ README.md
     <img src="https://img.shields.io/badge/SQL-%20?style=flat-square&logo=mysql&logoColor=white&color=4479A1"/>
 
 
-
-
-- <h5>Website: <a target="_blank" href="https://13dev.pt">13dev.pt</a></h5>
-
 ---
 <div align="center">
 
