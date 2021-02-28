@@ -53,11 +53,13 @@
 
 </p>
 
-<div align="center">
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&theme=buefy"" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide=html&layout=compact&theme=buefy"/>
-    
-  </div>
-</div>
+  
+  
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&theme=buefy""" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>  
