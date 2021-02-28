@@ -53,6 +53,8 @@
 
 </p>
 
+---
+
 <div align="center">
 
   <div style="display: flex; align-items: flex-start;">
