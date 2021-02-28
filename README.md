@@ -53,9 +53,7 @@
 
 </p>
 
----
-
-<div align="center">
+<p align="center">
 
   <div style="display: flex; align-items: flex-start;">
     <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&theme=buefy"" />
