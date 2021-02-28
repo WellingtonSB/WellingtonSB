@@ -1,6 +1,6 @@
 ### 👋 Hello, word!
 
-- 👨‍💻I'm currently attending Bootcamp in[Generation Brasil](https://brazil.generation.org/).
+- 👨‍💻I'm currently attending Bootcamp in [Generation Brasil](https://brazil.generation.org/).
 - 🌱 Systems analysis and development at Senac.
 - 💙 Java, Spring Boot, html, css, javaScript.
 - :video_game:League of Legends player
