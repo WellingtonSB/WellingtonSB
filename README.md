@@ -1,9 +1,9 @@
 ### 👋 Hello, word!
 
-- 👨‍💻Atualmente estou cursando o Bootcamp da [Generation Brasil](https://brazil.generation.org/).
-- 🌱 Estudante de Analise e desenvolvimento de sistemas.
-- 💙 Interesse: Java, Spring Boot, html, css, javaScript.
-- :video_game: Adoro jogar League Of Legends.
+- 👨‍💻I'm currently attending Bootcamp in[Generation Brasil](https://brazil.generation.org/).
+- 🌱 Systems analysis and development at Senac.
+- 💙 Java, Spring Boot, html, css, javaScript.
+- :video_game:League of Legends player
 
 
 ## Skills :nerd_face:
@@ -46,7 +46,7 @@
 
 <p align="center"> 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## Total visits :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/WellingtonSB/count.svg" />
  </p>
