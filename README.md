@@ -5,16 +5,6 @@
 - 💙 Interesse: Java, Spring Boot, html, css, javaScript.
 - :video_game: Adoro jogar League Of Legends.
 
-<div align="center">
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&theme=buefy"" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide=html&layout=compact&theme=buefy"/>
-    
-  </div>
-</div>
-
-
 
 ## Skills :nerd_face:
 <p align="center">
@@ -51,6 +41,16 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/wellington-bezerra-005139165/">
     </a>
 </p>
+
+
+<div align="center">
+
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&theme=buefy"" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide=html&layout=compact&theme=buefy"/>
+    
+  </div>
+</div>
 
 <p align="center"> 
 
