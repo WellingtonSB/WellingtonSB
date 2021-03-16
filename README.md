@@ -30,7 +30,10 @@
 ## Contact :iphone:
 
 <p align="center">
-    <a href="https://github.com/WellingtonSB">
+         <a href="https://www.instagram.com/well_ffb/">
+        <img  src="https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/well_ffb/">
+    </a>
+        <a href="https://github.com/WellingtonSB">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/WellingtonSB">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,6 +43,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/wellington-bezerra-005139165/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/wellington-bezerra-005139165/">
+        
     </a>
 </p>
 
