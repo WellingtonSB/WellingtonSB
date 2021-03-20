@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, word! 👋</h1>
 
- ### :raising_hand: &nbsp; About me
+ ### 👨‍💻: &nbsp; About me
 - 👨‍💻I'm currently attending Bootcamp in [Generation Brasil](https://brazil.generation.org/).
 - 🌱 Systems analysis and development at Senac.
 - 💙 Java, Spring Boot, html, css, javaScript.
