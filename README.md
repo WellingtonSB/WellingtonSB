@@ -20,10 +20,10 @@
 
 ### :speech_balloon: Contact me
 
-<p align="left">
-<a href ="https://www.linkedin.com/in/wellington-bezerra-005139165/"><img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href ="mailto:wellingtonsouza2504@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Wellington%20Bezerra-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-bezerra-005139165/)](https://www.linkedin.com/in/wellington-bezerra-005139165/) 
+[![Gmail Badge](https://img.shields.io/badge/-wellingtonsouza2504@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonsouza2504@gmail.com)](mailto:wellingtonsouza2504@gmail.com)
+
  
 
 
