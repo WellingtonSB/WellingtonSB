@@ -1,9 +1,8 @@
 # Wellington Bezerra
 
+## Enthusiast of the best web  development technologies.
+
 Currently in the bootcamp of [Generation Brasil](https://brazil.generation.org/)
-
-
-Enthusiast of the best web  development technologies.
 
 “If you wish to make an apple pie from scratch, you must first invent the universe.” ― Carl Sagan
 
