@@ -13,4 +13,4 @@ Currently in the bootcamp of [Generation Brasil](https://brazil.generation.org/)
 
 <!--![Snake animation](https://github.com/WellingtonSB/WellingtonSB/blob/output/github-contribution-grid-snake.svg)
 
-<!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
