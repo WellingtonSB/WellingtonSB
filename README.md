@@ -1,7 +1,5 @@
 # Wellington Bezerra
 
-Currently in the bootcamp of [Generation Brasil](https://brazil.generation.org/)
-
 
 “If you wish to make an apple pie from scratch, you must first invent the universe.” ― Carl Sagan
 
