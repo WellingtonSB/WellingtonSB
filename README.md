@@ -8,5 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wellingtonsouza2504@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonsouza2504@gmail.com)](mailto:wellingtonsouza2504@gmail.com)
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonSB&layout=compact)](https://github.com/WellingtonSB/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
+
+[![Wellinfron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
