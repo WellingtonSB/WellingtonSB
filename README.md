@@ -9,6 +9,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wellingtonSB&count_private=true&show_icons=true&theme=radical" width="370px"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB&layout=compact&theme=radical" width="370px">
+</p
 
 <!--[![Wellinfron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
