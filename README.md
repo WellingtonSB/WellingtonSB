@@ -11,4 +11,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
 
-[![Wellinfron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
+<!--[![Wellinfron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
