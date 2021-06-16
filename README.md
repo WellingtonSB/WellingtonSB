@@ -8,10 +8,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-wellingtonsouza2504@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonsouza2504@gmail.com)](mailto:wellingtonsouza2504@gmail.com)
 
 
+<h2>Estatísticas do GitHub</h2>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wellingtonSB&count_private=true&show_icons=true&theme=radical" width="370px"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB&layout=compact&theme=radical" width="370px">
 </p
 
-<!--[![Wellinfron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WellingtonSB)](https://github.com/wellingtonSB/github-readme-stats)
+
