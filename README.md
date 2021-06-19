@@ -8,11 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-wellingtonsouza2504@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellingtonsouza2504@gmail.com)](mailto:wellingtonsouza2504@gmail.com)
 
 
-<h2>Estatísticas do GitHub</h2>
+### My Github Statistics
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wellingtonSB&count_private=true&show_icons=true&theme=radical" width="370px"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonSB&layout=compact&theme=radical" width="370px">
-</p
+<p align="start">
+<img align="" height='150px' src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+</p>
+<br>
 
-
+### My Heroku Statistics
+![](https://activity-graph.herokuapp.com/graph?username=WellingtonBezerra&theme=react-dark&area=true)
