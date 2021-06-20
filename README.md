@@ -15,5 +15,5 @@
 </p>
 <br>
 
-### My Heroku Statistics
-![](https://activity-graph.herokuapp.com/graph?username=WellingtonBezerra&theme=react-dark&area=true)
+<!--### My Heroku Statistics
+![](https://activity-graph.herokuapp.com/graph?username=WellingtonBezerra&theme=react-dark&area=true)--!>
