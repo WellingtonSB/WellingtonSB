@@ -11,8 +11,7 @@
 ### My Github Statistics
 
 <p align="start">
-<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" />
-  <img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+<img align="" height='170px' src="https://github-readme-stats.vercel.app/api?username=wellingtonsb&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /><img align="" height='170px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellingtonsb&hide_title=false&layout=compact&theme=gotham&count_private=true" />
 </p>
 <br>
 
